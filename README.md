@@ -55,26 +55,6 @@
 
 ---
 
-<!-- GitHub Stats + Real-Time Counter -->
-<p align="center" style="margin-top:30px;">
-
-  <!-- Real-time commit counter -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blueviolet&style=flat-square"/>
-
-  <br><br>
-
-  <!-- GitHub streak graph -->
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-
-  <br><br>
-
-  <!-- GitHub contribution snake animation -->
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
 <!-- Social Links -->
 <div align="center" style="margin-top:25px">
 
