@@ -1,4 +1,6 @@
-<h2 align="left">yoo My name is Ayush Jha and I'm a Fullstack developer , web designer, Video Editor, AI/Ml Enthusiast, Startup Enthusiast from Mumbai</h2>
+<h2 align="left">Yoo I'm Ayush Jha 
+    A Fullstack developer , web designer, Video Editor, AI/Ml Enthusiast, Startup Enthusiast
+  from Mumbai</h2>
 
 ###
 
